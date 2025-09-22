@@ -1,4 +1,6 @@
-// Calculadora básica en JavaScript (estructurada)
+const prompt = require("prompt-sync")();
+
+// Calculadora básica en JavaScript
 
 // Función para pedir un número al usuario
 function pedirNumero(mensaje) {
